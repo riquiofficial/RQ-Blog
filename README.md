@@ -1,5 +1,5 @@
 # RQ Blog
 
-# Blog site built on NodeJS, Express and MongoDB
+## Blog site built on NodeJS, Express and MongoDB
 
-in development
+Currently in development
