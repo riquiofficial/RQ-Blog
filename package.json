@@ -1,5 +1,5 @@
 {
-  "name": "RQ-Blog",
+  "name": "rq-blog",
   "version": "1.0.0",
   "description": "A blog site for RQ Web Development",
   "main": "app.js",
